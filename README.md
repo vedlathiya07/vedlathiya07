@@ -1,5 +1,5 @@
 # 💫 About Me:
-const ved = {<br> &nbsp location: "Ahmedabad, Gujarat, India",<br>  education: "Computer Engineering @ L.D. College of Engineering",<br> &nbsp role: "Full-Stack MERN Developer",<br> &nbsp currentlyLearning: ["Artificial Intelligence", "LLMs"],<br> &nbsp skills: ["React.js", "Node.js", "Express.js", "MongoDB", "Python", "Flask"],<br> &nbsp interests: ["Full-Stack Development", "Artificial Intelligence", "LLMs"],<br> &nbsp featuredProjects: ["Wanderlust", "DriveEase", "AI Interview Question Generator"],<br> &nbsp availableFor: "Internships and collaboration opportunities",<br> &nbsp goal: "Building scalable, reliable and user-focused applications"<br>};
+const ved = {<br>  location: "Ahmedabad, Gujarat, India",<br>  education: "Computer Engineering @ L.D. College of Engineering",<br>  role: "Full-Stack MERN Developer",<br>  currentlyLearning: ["Artificial Intelligence", "LLMs"],<br>  skills: ["React.js", "Node.js", "Express.js", "MongoDB", "Python", "Flask"],<br> &nbsp interests: ["Full-Stack Development", "Artificial Intelligence", "LLMs"],<br>  featuredProjects: ["Wanderlust", "DriveEase", "AI Interview Question Generator"],<br>  availableFor: "Internships and collaboration opportunities",<br>  goal: "Building scalable, reliable and user-focused applications"<br>};
 
 
 ## 🌐 Socials:
