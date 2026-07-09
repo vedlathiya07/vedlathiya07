@@ -34,7 +34,7 @@
 ```javascript
 const ved = {
   location:          "Ahmedabad, Gujarat, India 🇮🇳",
-  education:         "B.Tech Computer Engineering @ L.D. College of Engineering",
+  education:         "B.E. Information Technology @ L.D. College of Engineering",
   role:              "Full-Stack MERN Developer",
   currentlyLearning: ["Artificial Intelligence", "Machine Learning", "LLMs"],
   featuredProjects:  ["Wanderlust", "DriveEase", "AI Interview Question Generator"],
