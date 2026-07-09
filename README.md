@@ -36,10 +36,10 @@ const ved = {
   location:          "Ahmedabad, Gujarat, India 🇮🇳",
   education:         "B.Tech Computer Engineering @ L.D. College of Engineering",
   role:              "Full-Stack MERN Developer",
-  currentlyLearning: ["Artificial Intelligence", "LLMs"],
+  currentlyLearning: ["Artificial Intelligence", "Machine Learning", "LLMs"],
   featuredProjects:  ["Wanderlust", "DriveEase", "AI Interview Question Generator"],
   availableFor:      "Internships and collaboration opportunities ✅",
-  goal:              "Building scalable, reliable and user-focused applications"
+  goal:              "Building scalable, reliable and user-focused web-applications"
 };
 ```
 
