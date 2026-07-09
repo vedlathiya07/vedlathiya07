@@ -142,13 +142,13 @@ Web app that generates tailored interview questions, combining a clean frontend 
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🏆 GitHub Trophies
 
 [![](https://github-profile-trophy.vercel.app/?username=vedlathiya07&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/vedlathiya07)
 
-</div>
+</div> -->
 
 ---
 
